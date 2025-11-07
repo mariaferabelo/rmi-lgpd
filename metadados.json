@@ -1,0 +1,122 @@
+[
+    {
+      "DocId": "Artigo 01",
+      "Titulo": "LGPD - LEI GERAL DE PROTEÇÃO DE DADOS PESSOAIS EM TECNOLOGIA DA INFORMAÇÃO: Revisão Sistemática",
+      "Autores": "Cláudio Filipe Lima Rapôso; Haniel Melo de Lima; Waldecy Ferreira de Oliveira Junior; Paola Aragão Ferreira Silva; Elaine de Souza Barros",
+      "Filiacao": "Universidad Autonôma de Asunción - PY"
+    },
+    {
+      "DocId": "Artigo 02",
+      "Titulo": "Tratamento de dados pessoais na LGPD: estudo sobre as bases legais",
+      "Autores": "Chiara Spadaccini de TEFFÉ; Mario VIOLA",
+      "Filiacao": "Doutoranda e Mestre em Direito Civil pela Universidade do Estado do Rio de Janeiro (UERJ); Doutor em Direito pelo European University Institute (Florença, Itália), Mestre em Direito Civil pela Universidade do Estado do Rio de Janeiro"
+    },
+    {
+      "DocId": "Artigo 03",
+      "Titulo": "A LGPD E A PROTEÇÃO AO TRATAMENTO DE DADOS PESSOAIS DE CRIANÇAS E ADOLESCENTES",
+      "Autores": "Marcos César Botelho",
+      "Filiacao": "Doutor em Direito Constitucional no programa da Instituição Toledo de Ensino/Bauru-SP; Mestre em Direito Constitucional pelo Instituto Brasiliense de Direito Público; Professor adjunto vinculado ao programa de mestrado em ciências jurídicas na Universidade Estadual do Norte do Paraná (UENP)"
+    },
+    {
+      "DocId": "Artigo 04",
+      "Titulo": "Fundamentos da Lei Geral de Proteção de Dados (LGPD): Uma revisão narrativa",
+      "Autores": "Marcelo Eloy Fernandes; Ana Paula Eloy Nuzzi",
+      "Filiacao": "Faculdade Padre Danilo José de Oliveira Ohl. Brasil; Ordem dos Advogados do Brasil, Brasil"
+    },
+    {
+      "DocId": "Artigo 05",
+      "Titulo": "LGPD nas Instituições Públicas no Brasil: uma análise de artigos no Periódicos da CAPES/CAFe que retratam a LGPD nas Instituições Públicas com às possíveis mudanças e desafios expostos",
+      "Autores": "Agenor José Ferreira Neto; Abimael Magno do Ouro Filho",
+      "Filiacao": "Bacharel em Secretariado Executivo. Escriturário na Fundação de Apoio à Pesquisa e Extensão de Sergipe; Doutor em Administração pela UFBA. Docente no Departamento de Secretariado Executivo na Universidade Federal de Sergipe"
+    },
+    {
+      "DocId": "Artigo 06",
+      "Titulo": "O artigo 20 da LGPD e os desafios interpretativos ao direito à revisão das decisões dos agentes de tratamento pelos titulares de dados",
+      "Autores": "Micaiela Barros Barcelos Fernandes; Camila Helena Melchior Baptista de Oliveira",
+      "Filiacao": "Doutoranda em Direito Civil pela UERJ. Mestre em Direito da Empresa e Atividades Econômicas pela UERJ. Mestre em Direito Internacional e da Integração Econômica pela UERJ. Pós-graduada em Direito da Economia e da Empresa pela FGV/RJ. Graduada em Direito pela UFRJ. Advogada; Mestranda em Direito Civil pela UERJ. Graduada em Direito pela UERJ. Advogada"
+    },
+    {
+      "DocId": "Artigo 07",
+      "Titulo": "Metodologia para mapeamento dos requisitos listados na LGPD (Lei Geral de Proteção de Dados do Brasil número 13.709/18) e sua adequação perante a lei em uma instituição financeira - Um estudo de caso",
+      "Autores": "Tiago Celidonio; Paulo Sergio Neves; Claudio Melim Doná",
+      "Filiacao": "Pós-Graduado em Gestão Estratégica da Tecnologia da Informação pela Faculdade Batista de Minas Gerais - FBMG; MBA em Gerenciamento de Projetos - UNIVEM - Centro Universitário Eurípides de Marília Pós-Graduado em Gerenciamento de Processos de Negócio - UNISC - Universidade de Santa Cruz do Sul; Mestre em Gestão e Sistemas Produtivos"
+    },
+    {
+      "DocId": "Artigo 08",
+      "Titulo": "O IMPACTO DA LEI GERAL DE PROTEÇÃO DE DADOS PESSOAIS (LGPD) NOS ESCRITÓRIOS DE CONTABILIDADE",
+      "Autores": "UNIRAN LEMOS DA CRUZ; MATHEUS PASSAROTO; NAURO THOMAZ JUNIOR",
+      "Filiacao": "Mestre em Ciências Contábeis pela Universidade do Estado do Rio de Janeiro (UERJ). Universidade Cândido Mendes (UCAM); Graduado em Ciências Contábeis da Universidade Cândido Mendes (UCAM); Mestre em Economia e Gestão Empresarial pela Universidade Cândido Mendes (UCAM)"
+    },
+    {
+      "DocId": "Artigo 09",
+      "Titulo": "Segurança da Informação para Internet das Coisas (IoT): uma Abordagem sobre a Lei Geral de Proteção de Dados (LGPD)",
+      "Autores": "Nairobi Spiecker de Oliveira; Moises Alexandre Gomes; Ronaldo Lopes; Jéferson C. Nobre",
+      "Filiacao": "Curso Superior de Tecnologia em Segurança da Informação Universidade do Vale do Rio dos Sinos (UNISINOS)"
+    },
+    {
+      "DocId": "Artigo 10",
+      "Titulo": "AS DIFICULDADES DE IMPLEMENTAÇÃO DA LGPD NOBRASIL",
+      "Autores": "Blenda Eduarda de Melo Cunha; Esdras Dalmo Pinto Pereira; Geovana Timoteo;; João Victor Arruda Barbosa; Maria Eduarda de Assis; Maria Eduarda Moreira Almeida",
+      "Filiacao": "Graduanda do curso de Direito na Faculdade de Pará de Minas (FAPAM)"
+    },
+    {
+      "DocId": "Artigo 11",
+      "Titulo": "Um método para transformação de requisitos legais em padrões de requisitos de software: Um estudo com a LGPD",
+      "Autores": "Cinara Gomes de Melo Carneiro; Taciana N. Kudo; Renato F. Bulcão Neto",
+      "Filiacao": "Instituto de Informática - Universidade Federal de Goiás (UFG)"
+    },
+    {
+      "DocId": "Artigo 12",
+      "Titulo": "Desafios da LGPD quanto à privacidade em ambientes educacionais: um mapeamento sistemático",
+      "Autores": "Sálvio Roberto Freitas Reis; Tatiane Santos Matos Reis; Genisson Lima de Almeida; Tácito Augusto Farias Júnior; Adenizia Serafim dos Santos Farias; Helen Carla Santos Matos; Leidiana Santos Matos; Marcio Lisboa Feitoza; Allysson Barbosa Fernandes; Danilo Marcos Leme Fukuoka",
+      "Filiacao": "Mestrando em Ciência da Computação, Universidade Federal de Sergipe; Mestre em Ensino de História, Universidade Federal de Sergipe; Doutorando em Desenvolvimento e Meio Ambiente, Universidade Federal de Sergipe; Doutorando em Sociologia, Universidade Federal de Sergipe; Mestre em Educação, Universidade Tiradentes; Doutoranda em Ensino, Universidade Federal de Sergipe; Mestre em Ciências da Educação, Universidad Interamericana; Mestrando em Ciência da Computação, Universidade Federal de Sergipe; Mestrando em Tecnologias Emergentes em Educação, Miami University of Science and Technology (MUST); Doutorando em Engenharia Civil, Atlantic International University (AIU)"
+    },
+    {
+      "DocId": "Artigo 13",
+      "Titulo": "A TUTELA COLETIVA DOS DADOS PESSOAIS NA LEI GERAL DE PROTEÇÃO DE DADOS PESSOAIS (LGPD)",
+      "Autores": "André Roque",
+      "Filiacao": "Doutor e mestre em Direito Processual pela UERJ. Professor Adjunto de Direito Processual Civil da UERJ. Advogado. Rio de Janeiro/RJ"
+    },
+    {
+      "DocId": "Artigo 14",
+      "Titulo": "O VALOR FUNDAMENTAL DOS DADOS PESSOAIS: UMA ANÁLISE COMPARATIVA ENTRE A LGPD E GDPR SOB A ÓTICA DA ANÁLISE ECONÔMICA DO DIREITO",
+      "Autores": "ANNELIESE REGINA FEILER; FELIPE GAZANIGA; THIAGO ANDRÉ MARQUES VIEIRA",
+      "Filiacao": "Pontifícia Universidade Católica do Rio Grande do Sul, Pós-graduanda em Direito Empresarial. Advogada; Universidade Regional de Blumenau, Mestrando em Direito. Pós-graduando em Direito Tributário. Pós-Graduado em Contabilidade Tributária. Advogado; Centro Universitário Católica de Santa Catarina, Mestre em Direito. Professor Universitário. Advogado"
+    },
+    {
+      "DocId": "Artigo 15",
+      "Titulo": "LEI GERAL DE PROTEÇÃO DE DADOS (LGPD) E GENERAL DATA PROTECTION REGULATION (GDPR): PARALELOS NA PROTEÇÃO DE DADOS PESSOAIS",
+      "Autores": "Ilson Vieira Ruiz",
+      "Filiacao": "Bacharel em Direito pelo Centro Universitário do Norte-UNINORTE. Especialista em Direito Público pela Universidade do Estado do Amazonas-UEA. Mestrando em Estudos Jurídicos com Enfase em Direito Internacional pela MUST University"
+    },
+    {
+      "DocId": "Artigo 16",
+      "Titulo": "Recomendações para Conformidade com a LGPD a partir de uma Revisão Sistemática da Literatura",
+      "Autores": "Gabriel da S. Belarmino; Gustavo H. M. B. Motta; Danielle R. D. Ricarte; Luiz Fernando F. P. de Lima",
+      "Filiacao": "Universidade Federal da Paraíba - João Pessoa - PB - Brasil; CESAR - Recife - PE - Brasil"
+    },
+    {
+      "DocId": "Artigo 17",
+      "Titulo": "A LEI GERAL DE PROTEÇÃO DE DADOS (LGPD) NO ÂMBITO DAS RELAÇÕES TRABALHISTAS: CONCEITOS, IMPACTOS E SUAS IMPLICAÇÕES",
+      "Autores": "Luciana Costa Estêvão; Stephane Kelly da Silva Lima; Luanjir Luna da Silva",
+      "Filiacao": "Advogada. Graduada em Direito pelo Centro Universitário UNA, Belo Horizonte - Unidade Barreiro; Advogada. Graduada em Direito pelo Centro Universitário UNA, Belo Horizonte - Unidade Barreiro; Advogado. Mestrando em Propriedade Intelectual e Transferência de Tecnologia para Inovação pelo Programa Profnit, ponto focal Universidade Federal de São João del-Rei (UFSJ). Pós-graduando em Advocacia Trabalhista pela Escola Brasileira de Direito, EBRADI. Graduado em Direito pelo Centro Universitário UNA, Belo Horizonte - Unidade Barreiro"
+    },
+    {
+      "DocId": "Artigo 18",
+      "Titulo": "LGPD - UMA VISÃO DE TECNOLOGIA E AGNÓSTICA",
+      "Autores": "Luiz Fernando Pereira Nunes; José Carlos Francisco dos Santos",
+      "Filiacao": "Mestrando no Programa de Mestrado Profissional em Direito, Sociedade e Tecnologias da Escola de Direito das Faculdades Londrina. Graduado em Ciências Biológicas pela Faculdades Integradas Regionais Avaré-SP. Graduado em Ciência da Computação pela Universidade Estadual de Londrina. Professor Universitário e de Pós-graduação. Consultor em Projetos e Tecnologia pela Luv2mob; Pós-Doutorando em Ciência da Informação pela Universidade Estadual de Londrina. Doutorado em Ciência da Informação pela Universidade Estadual Paulista Júlio de Mesquita Filho - UNESP. Mestrado em Ciência da Informação pela Universidade Estadual de Londrina - UEL. Graduado em Tecnologia em Processamento de Dados pela Universidade Norte do Paraná UNOPAR. Graduando em Biblioteconomia pelo Centro Universitário Leonardo da Vinci - UNIASSELVI. Professor no Programa de Mestrado Profissional em Direito, Sociedade e Tecnologias da Escola de Direito das Faculdades Londrina"
+    },
+    {
+      "DocId": "Artigo 19",
+      "Titulo": "Reflexões sobre a contribuição da gestão de documentos para programas de adequação à Lei Geral de Proteção de Dados Pessoais (LGPD)",
+      "Autores": "Lenora Schwaitzer; Natália Nascimento; Alexandre de Souza Costa",
+      "Filiacao": "Doutora em História, Política e Bens Culturais pela Fundação Getúlio Vargas (FGV). Professora adjunta do Departamento de Arquivologia da Universidade Federal do Espírito Santo (Ufes), Brasil; Doutora em Ciência da Informação pela Universidade Estadual Paulista (Unesp) e pela Universidade de Salamanca, Espanha. Professora adjunta do curso de Arquivologia da Universidade Federal do Pará (Ufpa), Brasil; Doutor em Ciência da Informação pelo convênio Universidade Federal do Rio de Janeiro e Instituto Brasileiro de Informação em Ciência e Tecnologia (UFRJ/Ibict). Professor colaborador do mestrado profissional em Gestão de Documentos e Arquivos da Universidade Federal do Estado do Rio de Janeiro (Unirio) e professor do Centro Universitário Augusto Motta (Unisuam), Brasil"
+    },
+    {
+      "DocId": "Artigo 20",
+      "Titulo": "A LGPD através da criptografia em empresas privadas: Uma revisão da literatura",
+      "Autores": "Marco Aurelio Muniz de Pontes; Diogo Severino Ramos da Silva",
+      "Filiacao": "Graduado em direito. Especialista em Bioética e Biodireito pela Faculdade dos Palmares (FAP). Membro da Comissão de Perícias Forenses do Estado de Pernambuco; Professor do Curso de Direito da Faculdade Católica Imaculada Conceição do Recife. Mestre em Perícias Forenses pela Universidade de Pernambuco"
+    }
+  ]

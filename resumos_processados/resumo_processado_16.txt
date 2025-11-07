@@ -1,0 +1,4 @@
+resumo_processado_16.txt
+------------------------------------------------------------------
+avanço informatização desenvolvimento tecnológico gerou evolução manipulação transferência dados. essa evolução, promove preocupações crescentes quanto segurança proteção dados pessoais, culminando criação nova legislação, lei geral proteção dados (lgpd) brasileira. executando revisão literatura, artigo coleta artefatos relacionados processos organizacionais úteis promover conformidade com lgpd regulamentação europeia, fim desenvolver recomendações técnicas privacidade. análise correlação diferentes artefatos coletados permitiram sugestão sete recomendações executar processos privacidade eficientes lgpd.
+------------------------------------------------------------------

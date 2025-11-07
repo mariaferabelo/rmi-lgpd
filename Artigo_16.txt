@@ -1,0 +1,8 @@
+Artigo_16.txt
+------------------------------------------------------------------
+Título: Recomendações para Conformidade com a LGPD a partir de uma Revisão Sistemática da Literatura
+Autor(es): Gabriel da S. Belarmino; Gustavo H. M. B. Motta; Danielle R. D. Ricarte; Luiz Fernando F. P. de Lima
+Filiação acadêmica: Universidade Federal da Paraíba - João Pessoa - PB - Brasil; CESAR - Recife - PE - Brasil.
+Palavras-chave: LGPD, RGPD, segurança da informação, dados pessoais, conformidade, processos organizacionais
+Resumo: O avanço da informatização e do desenvolvimento tecnológico gerou a evolução na manipulação e transferência de dados. Essa evolução, promove preocupações crescentes quanto à segurança e proteção de dados pessoais, culminando na criação da nova legislação, a Lei Geral de Proteção de Dados (LGPD) brasileira. Executando uma revisão da literatura, este artigo coleta artefatos relacionados aos processos organizacionais que são úteis para promover a conformidade com a LGPD e a regulamentação europeia, a fim de desenvolver recomendações técnicas de privacidade. A análise e correlação dos diferentes artefatos coletados permitiram a sugestão de sete recomendações para executar processos de privacidade eficientes para a LGPD.
+------------------------------------------------------------------

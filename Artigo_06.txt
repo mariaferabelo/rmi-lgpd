@@ -1,0 +1,8 @@
+Artigo_06.txt
+------------------------------------------------------------------
+Título: O artigo 20 da LGPD e os desafios interpretativos ao direito à revisão das decisões dos agentes de tratamento pelos titulares de dados
+Autor(es): Micaela Barros Barcelos Fernandes; Camila Helena Melchior Baptista de Oliveira
+Filiação acadêmica: Doutoranda em Direito Civil pela UERJ. Mestre em Direito da Empresa e Atividades Econômicas pela UERJ. Mestre em Direito Internacional e da Integração Econômica pela UERJ. Pós-graduada em Direito da Economia e da Empresa pela FGV/RJ. Graduada em Direito pela UFRJ. Advogada; Mestranda em Direito Civil pela UERJ. Graduada em Direito pela UERJ. Advogada.
+Palavras-chave: Lei Geral de Proteção de Dados LGPD - Direito à revisão - Direito à explicação Segredo empresarial
+Resumo: Este artigo trata dos desafios para interpretação do artigo 20 da Lei Geral de Proteção de Dados, que outorga aos titulares o direito à revisão das decisões que afetem seus interesses e sejam tomadas por agentes de tratamento, com base em tratamento unicamente automatizado de dados pessoais. Buscou-se, de um lado, contribuir para uma interpretação que confirme efetividade às normas de proteção à privacidade, a autodeterminação, e proteção contra discriminação dos titulares de dados, mas, de outro, que não impeça a inovação, o desenvolvimento de produtos e serviços suportados no uso de dados, inclusive por via da proteção ao segredo empresarial (industrial e comercial), considerando a atual preponderância de modelos de negócio que dependem cada vez mais do acesso e processamento massivo de dados.
+------------------------------------------------------------------

@@ -1,0 +1,8 @@
+Artigo_03.txt
+------------------------------------------------------------------
+Título: A LGPD E A PROTEÇÃO AO TRATAMENTO DE DADOS PESSOAIS DE CRIANÇAS E ADOLESCENTES
+Autor(es): Marcos César Botelho
+Filiação acadêmica: Doutor em Direito Constitucional no programa da Instituição Toledo de Ensino/Bauru-SP; Mestre em Direito Constitucional pelo Instituto Brasiliense de Direito Público; Professor adjunto vinculado ao programa de mestrado em ciências jurídicas na Universidade Estadual do Norte do Paraná (UENP).
+Palavras-chave: LGPD; dados pessoais; criança; adolescente.
+Resumo: O presente estudo objetiva, a partir do método indutivo e da pesquisa bibliográfica proceder a análise do tratamento legal conferido pela Lei Geral de Proteção de Dados Pessoais (LGPD) nos processos de coleta e tratamento de dados de crianças e adolescentes, abordando o estudo a partir do conceito de criança e adolescente presente no Estatuto da Criança e do Adolescente, passando pelas ideias principais da LGPD para analisar, por fim, a proteção aos dados pessoais de crianças e adolescentes apresentado pela LGPD e sua conformidade com o conjunto de normas protetivas a estas categorias de pessoas, observando-se, sobretudo, a proteção com base no melhor interesse da criança e do adolescente.
+------------------------------------------------------------------

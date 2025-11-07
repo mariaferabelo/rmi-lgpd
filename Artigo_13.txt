@@ -1,0 +1,8 @@
+Artigo_13.txt
+------------------------------------------------------------------
+Título: A TUTELA COLETIVA DOS DADOS PESSOAIS NA LEI GERAL DE PROTEÇÃO DE DADOS PESSOAIS (LGPD)
+Autor(es): André Roque
+Filiação acadêmica: Doutor e mestre em Direito Processual pela UERJ. Professor Adjunto de Direito Processual Civil da UERJ. Advogado. Rio de Janeiro/RJ.
+Palavras-chave: Dados pessoais – Tutela coletiva – Legitimados coletivos – Categorias de direitos coletivos – Reforma estrutural
+Resumo: O presente artigo se destina a analisar os principais aspectos processuais relacionados à tutela coletiva na Lei n.º 13.709/2018 Lei Geral de Proteção de Dados Pessoais (LGPD). Embora as repercussões da LGPD sejam variadas, propõe-se o presente trabalho a discutir os mais relevantes aspectos da tutela coletiva dos dados pessoais na LGPD, com enfoque para os seguintes temas: (i) categorias dos direitos coletivos e a LGPD; (ii) legitimados coletivos para a proteção de dados pessoais; e (iii) decisões estruturantes na LGPD. Conclui-se, ao final, que a LGPD demandará razoável esforço dos agentes de tratamento para que atuem de acordo com as suas determinações, e que é significativa a probabilidade de que diversas ações coletivas venham a ser ajuizadas com fundamento na LGPD a partir do momento em que entrar em vigor.
+------------------------------------------------------------------

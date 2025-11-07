@@ -1,0 +1,8 @@
+Artigo_19.txt
+------------------------------------------------------------------
+Título: Reflexões sobre a contribuição da gestão de documentos para programas de adequação à Lei Geral de Proteção de Dados Pessoais (LGPD)
+Autor(es): Lenora Schwaitzer; Natália Nascimento; Alexandre de Souza Costa
+Filiação acadêmica: Doutora em História, Política e Bens Culturais pela Fundação Getúlio Vargas (FGV). Professora adjunta do Departamento de Arquivologia da Universidade Federal do Espírito Santo (Ufes), Brasil; Doutora em Ciência da Informação pela Universidade Estadual Paulista (Unesp) e pela Universidade de Salamanca, Espanha. Professora adjunta do curso de Arquivologia da Universidade Federal do Pará (Ufpa), Brasil; Doutor em Ciência da Informação pelo convênio Universidade Federal do Rio de Janeiro e Instituto Brasileiro de Informação em Ciência e Tecnologia (UFRJ/Ibict). Professor colaborador do mestrado profissional em Gestão de Documentos e Arquivos da Universidade Federal do Estado do Rio de Janeiro (Unirio) e professor do Centro Universitário Augusto Motta (Unisuam), Brasil.
+Palavras-chave: Lei Geral de Proteção de Dados (LGPD); gestão de documentos; arquivista.
+Resumo: O objetivo deste artigo é apontar e analisar as contribuições da arquivologia, mais especificamente da gestão de documentos (GD), para a implantação da LGPD. O artigo utiliza como procedimento metodológico a pesquisa bibliográfica de natureza qualitativa do tipo descritiva e conclui que, apesar de o mercado brasileiro estar sendo dominado por profissionais da área de tecnologia da informação e do direito, é o arquivista e os fundamentos da GD que podem contribuir mais efetivamente para o tratamento de dados.
+------------------------------------------------------------------

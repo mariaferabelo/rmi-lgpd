@@ -1,0 +1,8 @@
+Artigo_14.txt
+------------------------------------------------------------------
+Título: O VALOR FUNDAMENTAL DOS DADOS PESSOAIS: UMA ANÁLISE COMPARATIVA ENTRE A LGPD E GDPR SOB A ÓTICA DA ANÁLISE ECONÔMICA DO DIREITO
+Autor(es): ANNELIESE REGINA FEILER; FELIPE GAZANIGA; THIAGO ANDRÉ MARQUES VIEIRA
+Filiação acadêmica: Pontifícia Universidade Católica do Rio Grande do Sul, Pós-graduanda em Direito Empresarial. Advogada; Universidade Regional de Blumenau, Mestrando em Direito. Pós-graduando em Direito Tributário. Pós-Graduado em Contabilidade Tributária. Advogado; Centro Universitário Católica de Santa Catarina, Mestre em Direito. Professor Universitário. Advogado.
+Palavras-chave: Análise econômica do direito. Dados pessoais. Privacidade. Proteção de dados.
+Resumo: Este artigo tem como objetivo realizar uma análise comparativa entre a Lei Geral de Proteção de Dados (LGPD) do Brasil e o Regulamento Geral de Proteção de Dados (GDPR) da União Europeia sob a perspectiva da análise econômica do direito. A análise considera aspectos como os custos de conformidade, OS incentivos para adoção de medidas de proteção de dados, as consequências para empresas que não cumprem as normas e os impactos sobre a inovação e a concorrência nos mercados. A abordagem interdisciplinar busca compreender o impacto das normas jurídicas sobre o comportamento humano e as interações econômicas. A comparação das legislações pode ajudar a entender as implicações no contexto empresarial e econômico. Perante o exposto, a metodologia utilizada na pesquisa é a comparativa e a técnica é bibliográfica.
+------------------------------------------------------------------

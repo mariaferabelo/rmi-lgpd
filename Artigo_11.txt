@@ -1,0 +1,8 @@
+Artigo_11.txt
+------------------------------------------------------------------
+Título: Um método para transformação de requisitos legais em padrões de requisitos de software: Um estudo com a LGPD
+Autor(es): Cinara Gomes de Melo Carneiro; Taciana N. Kudo; Renato F. Bulcão Neto
+Filiação acadêmica: Instituto de Informática - Universidade Federal de Goiás (UFG)
+Palavras-chave: Não informado
+Resumo: Estudos recentes mostram que analistas de requisitos têm dificuldade em interpretar a LGPD para obter requisitos de software de privacidade. Neste artigo, nós propomos um método para auxiliar na transformação de requisitos legais da LGPD em um catálogo de padrões de requisitos de software. Reusar requisitos na forma de padrões pode ser uma alternativa viável para auxiliar profissionais, uma vez que as determinações legais da LGPD são recorrentes em diferentes projetos de software. Uma avaliação preliminar do nosso catálogo de padrões aponta indícios da eficácia do método.
+------------------------------------------------------------------

@@ -1,0 +1,8 @@
+Artigo_10.txt
+------------------------------------------------------------------
+Título: AS DIFICULDADES DE IMPLEMENTAÇÃO DA LGPD NOBRASIL
+Autor(es): Blenda Eduarda de Melo Cunha; Esdras Dalmo Pinto Pereira; Geovana Timoteo; João Victor Arruda Barbosa; Maria Eduarda de Assis; Maria Eduarda Moreira Almeida
+Filiação acadêmica: Graduanda do curso de Direito na Faculdade de Pará de Minas (FAPAM).
+Palavras-chave: LGPD; cambridge analytica; GPDR; ANPD; Brasil.
+Resumo: O presente artigo visa apresentar a problemática da LGPD no Brasil, assim como apresentar quais são as dificuldades que estão sendo enfrentadas, desde a sua vigência, para a adequação das empresas. Por meio de pesquisa bibliográfica, pretendeu-se demonstrar de forma mais clara o que é exatamente a LGPD, podendo assim ser o presente artigo fornecido a sociedade, para que esta possa se valer das informações aqui prestadas. Espera-se que, após a leitura deste artigo, uma pessoa leiga atue corretamente diante da Lei Geral de Proteção de Dados, afastando-se da possibilidade de penalidades.
+------------------------------------------------------------------

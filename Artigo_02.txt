@@ -1,0 +1,8 @@
+Artigo_02.txt
+------------------------------------------------------------------
+Título: Tratamento de dados pessoais na LGPD: estudo sobre as bases legais
+Autor(es): Chiara Spadaccini de TEFFÉ; Mario VIOLA
+Filiação acadêmica: Doutoranda e Mestre em Direito Civil pela Universidade do Estado do Rio de Janeiro (UERJ); Doutor em Direito pelo European University Institute (Florença, Itália), Mestre em Direito Civil pela Universidade do Estado do Rio de Janeiro
+Palavras-chave: Dados pessoais; tratamento de dados; bases legais; privacidade.
+Resumo: O presente artigo visa analisar as bases legais para o tratamento de dados pessoais na Lei Geral de Proteção de Dados brasileira (LGPD - Lei n. 13.709/18). Diante da necessidade, como regra, de se enquadrar todo tratamento de dados em uma base legal determinada, mostra-se relevante estudar as possibilidades positivadas nos artigos 7º e 11 da LGPD e, especialmente, as hipóteses do consentimento e do legítimo interesse. Entender a aplicação de cada base legal é fundamental para se garantir segurança nas relações e evitar que os direitos e liberdades dos titulares sejam ameaçados ou sofram danos. Para tanto, serão analisadas principalmente doutrina brasileira e referências que versam sobre o regulamento europeu de proteção de dados.
+------------------------------------------------------------------

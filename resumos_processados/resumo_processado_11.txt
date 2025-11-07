@@ -1,0 +1,4 @@
+resumo_processado_11.txt
+------------------------------------------------------------------
+estudos recentes mostram analistas de requisitos têm dificuldade em interpretar a lgpd para obter requisitos de software de privacidade. neste artigo, nós propomos um método para auxiliar na transformação de requisitos legais da lgpd em um catálogo de padrões de requisitos de software. reusar requisitos na forma de padrões pode ser uma alternativa viável para auxiliar profissionais, uma vez que as determinações legais da lgpd são recorrentes em diferentes projetos de software. uma avaliação preliminar do nosso catálogo de padrões aponta indícios da eficácia do método.
+------------------------------------------------------------------

@@ -1,0 +1,8 @@
+Artigo_01.txt
+------------------------------------------------------------------
+Título: LGPD - LEI GERAL DE PROTEÇÃO DE DADOS PESSOAIS EM TECNOLOGIA DA INFORMAÇÃO: Revisão Sistemática
+Autor(es): Cláudio Filipe Lima Rapôso; Haniel Melo de Lima; Waldecy Ferreira de Oliveira Junior; Paola Aragão Ferreira Silva; Elaine de Souza Barros
+Filiação acadêmica: Universidad Autonôma de Asunción - PY
+Palavras-chave: Lei Geral de Proteção de Dados, Tecnologia da Informação.
+Resumo: Com a globalização e o desenvolvimento de novas tecnologias desenvolve uma competição cada vez mais voraz entre as empresas, desenvolvendo questionamentos sobre a segurança das informações corporativas e de seus clientes. Apesar de entrar em vigor no próximo ano, é evidente que se discute muito na literatura sobre a adaptabilidade da tecnologia da informação a LGPD que traz uma insegurança jurídica de como será a aplicabilidade da lei e que atitudes devem ser tomadas visando o compliance da lei. Esse artigo tem como objetivo reunir através de uma pesquisa sistemática em um período de cinco anos artigos que englobam a Lei Geral de Proteção dos Dados Pessoais (LGPD) com a tecnologia da informação. Com a finalidade de reunir e centralizar as informações correntes na comunidade cientifica. Através dele, delimitar futuros desafios para área da Tecnologia de Informação e a LGPD e facilitar o acesso a artigos que englobam o tema através da EBSCOHost e do Google Scholar em um período de cinco anos.
+------------------------------------------------------------------
